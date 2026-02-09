@@ -5,7 +5,7 @@ Data analysis of shelter occupancy drivers across major US cities
 This project analyzes the factors influencing homeless shelter occupancy in Los Angeles and peer US cities. The analysis examines demographic patterns, seasonality and weather, economic pressures, and government funding to better understand what drives shelter utilization.
 
 ## Project Context
-This analysis was completed as part of a graduate capstone project in Business Analytics. The original team repository was private. This repository contains my individual contributions and a reproduced version of the analysis.
+This analysis was completed as part of a graduate capstone project in Business Analytics. This repository contains my individual contributions and a reproduced version of the analysis.
 
 ## Data Sources
 - Homeless shelter occupancy and capacity data (2023–2025)
