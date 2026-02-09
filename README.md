@@ -23,9 +23,4 @@ This analysis was completed as part of a graduate capstone project in Business A
 - Housing affordability pressures and funding execution play a larger role
 - Effective resource deployment is critical for improving system performance
 
-## Files
-- `/analysis` – R scripts used for data cleaning and analysis   
-- `/visuals` – Key charts and figures
 
-## Notes
-All data shown has been anonymized or sourced from public datasets.
